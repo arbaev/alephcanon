@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alephcanon.ru/sitemap-index.xml
